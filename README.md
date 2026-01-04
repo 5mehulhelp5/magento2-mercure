@@ -1,6 +1,6 @@
 # Magento 2 Mercure
 
-> A comprehensive Magento 2 module that integrates [Symfony Mercure](https://github.com/symfony/mercure)
+> Magento 2 module that integrates [Symfony Mercure](https://github.com/symfony/mercure)
 to enable real-time, server-sent event (SSE) publishing capabilities for your e-commerce store.
 
 ![Static Badge](https://img.shields.io/badge/compatible-compatible?style=for-the-badge&label=Hyv%C3%A4&labelColor=%230A144B&color=%230A23B9%20)
